@@ -1,2 +1,2 @@
 # TensorRT-LLM-Profiling
-Profiling TensorRT-LLM model with Nsight Systems
+This repo demonstrates how to use Nsight Systems to profile a TensorRT-LLM model.
