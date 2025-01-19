@@ -16,7 +16,7 @@ Inference script for this example is [here](./speculative-decoding.py). This is 
 
 where `ai_venv` is the corresponding virtual environment applicable to this example.
 
-## Instructions
+## Launch NSight Systems
 The command to launch Nsight Systems in Linux is:
 
 ```
@@ -27,7 +27,21 @@ and as shown:
 
 ![Launch Nsight Systems](./assets/launch-nsys.png)
 
-After a series of output comments, Nsight SYstems should launch as expected.
+After a series of output comments, Nsight Systems should launch as expected.
 
 
+## Open Profile
+
+
+
+## Rendering Results
+
+Below shows the time view of the run:
+![Nsight Analysis](./assets/nsight-analysis.png)
+
+In Project Explorer, select the project of interest.
+
+In the visualization choices, select Timeline View
+
+In the track panel, select SM Warp Occupancy to examine its time traces.
 
