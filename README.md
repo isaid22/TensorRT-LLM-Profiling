@@ -32,6 +32,13 @@ After a series of output comments, Nsight Systems should launch as expected.
 
 ## Open Profile
 
+Create a project:
+
+![Create project](./assets/create-project.png)
+
+DEsignate profile connection:
+
+![connetion](./assets/connection.png)
 
 
 ## Rendering Results
