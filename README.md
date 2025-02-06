@@ -36,10 +36,17 @@ Create a project:
 
 ![Create project](./assets/create-project.png)
 
-DEsignate profile connection:
+Designate profile connection:
 
 ![connetion](./assets/connection.png)
 
+
+## Launch command 
+
+This is how to launch a script for profiling.
+![launch and working directory](./assets/launch-and-working-dir.png)
+
+Then click "start".
 
 ## Rendering Results
 
